@@ -16,4 +16,12 @@ To run this project locally, you will need to have Java and JDBC installed on yo
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/aucchwas/bank-Software.git
-   
+2. Navigate to the project directory
+   ```bash
+   cd bank-Software
+3. Compile the file
+   ```bash
+   javac Login.java
+4. Run the application
+   ```bash
+   java Login
